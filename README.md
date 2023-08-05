@@ -2,9 +2,9 @@
 
 TextUtils is a word counter and character counting utility to manipulate your text in the way you want. You can remove extra spaces or copy the manipulated text as well as convert your text from lowercase to uppercase or uppercase to lowercase.
 
-# TextUtils
+# Demo
 
-
+https://github.com/SmitBorsadiya/TextUtils/assets/115487410/82db4b29-bfa7-43b8-8297-f2e5abb531f9
 
 ## Getting Started with Create React App
 
