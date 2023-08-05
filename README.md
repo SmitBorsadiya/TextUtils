@@ -6,6 +6,7 @@ TextUtils is a word counter and character counting utility to manipulate your te
 
 https://github.com/SmitBorsadiya/TextUtils/assets/115487410/82db4b29-bfa7-43b8-8297-f2e5abb531f9
 
+---
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
